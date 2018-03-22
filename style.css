@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    color:chocolate;
+    font-size: 20px;
+}
+#score{
+        text-align: left;
+}
+
+#block-size{
+    margin-left: -50px;
+    padding-left: 50%;
+}
+#tile-size{
+    float: left;
+    margin-top: 0;
+}
+#size{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#canvas{
+    background-color: crimson;
+}
+
